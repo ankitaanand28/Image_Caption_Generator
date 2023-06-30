@@ -1,2 +1,4 @@
 # Image_Caption_Generator
-<h2> Model Architecture </h2> ![image](https://github.com/ankitaanand28/Image_Caption_Generator/assets/95133586/cc914271-a652-468b-b836-6458df6bcff1)
+<h2> Model Architecture </h2> 
+![image](https://github.com/ankitaanand28/Image_Caption_Generator/assets/95133586/375fb9f2-43ed-46d7-bd9a-74d454d94f54)
+
